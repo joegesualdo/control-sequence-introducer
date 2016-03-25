@@ -1,6 +1,6 @@
 {
   "name": "control-sequence-introducer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get Control Sequence Introducer for [ANSI Escape Codes](https://en.wikipedia.org/wiki/ANSI_escape_code)",
   "main": "index.js",
   "scripts": {

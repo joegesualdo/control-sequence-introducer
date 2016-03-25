@@ -1,6 +1,6 @@
 "use strict";
 var escapeCharacter = require("terminal-escape-char");
 
-const controlSequenceIntroducer = escapeCharacter + "[";
+var controlSequenceIntroducer = escapeCharacter + "[";
 
 module.exports = controlSequenceIntroducer
